@@ -3,5 +3,5 @@
 - A project based on Image Processing using Convolution Neural Networks + OpenCV.
 - Pi CAM was used for all the real time image input.
 - Raspberry Pi 3 was used for nominal real time image processing using open CV.
-- The model was trained with 2000 images each for "left, right, straight, sharp left, sharp right" to follow a track.
+- The model was trained with 2000 images each for "left, right, straight, sharp left, sharp right, stop sign, crossing, etc" to follow a track.
 - The motors were controlled using arduio UNO with serial communication.
